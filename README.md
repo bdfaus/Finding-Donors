@@ -2,6 +2,9 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+### Purpose
+Find donors for a hypothetical non-profit. Using supervised learning, locate earners who have an income greater than $50,000.
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
